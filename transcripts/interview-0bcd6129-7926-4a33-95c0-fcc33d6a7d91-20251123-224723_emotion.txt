@@ -1,0 +1,10 @@
+Segment 1: 0.90-2.62s
+Text: Hello,  my  name  is  Paul.
+Emotions: fear, happy, sad, fear, angry, angry, angry
+Majority: angry (x3)
+
+Segment 2: 3.68-6.44s
+Text: Nice  to  meet  you.  Hello.
+Emotions: sad, fear, fear, fear
+Majority: fear (x3)
+
