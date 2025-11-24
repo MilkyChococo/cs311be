@@ -1,0 +1,42 @@
+# ==== Core ML / Torch ====
+torch==2.9.0
+torchaudio==2.9.0
+transformers==4.57.1
+accelerate==1.11.0
+huggingface-hub==0.36.0
+safetensors==0.6.2
+tokenizers==0.22.1
+sentencepiece==0.2.1
+tqdm==4.67.1
+
+# ==== Whisper / ASR ====
+faster-whisper==1.2.0
+openai-whisper==20250625
+
+# ==== Audio processing ====
+librosa==0.11.0
+soundfile==0.13.1
+audioread==3.1.0
+noisereduce==3.0.3
+pydub==0.25.1
+soxr==1.0.0
+pyaudio==0.2.14
+speechrecognition==3.14.3
+ffmpeg-python==0.2.0
+numpy==2.2.6
+scipy==1.16.3
+
+# ==== Backend API (FastAPI) ====
+fastapi==0.121.2
+uvicorn==0.38.0
+python-multipart==0.0.20
+pydantic==2.12.4
+starlette==0.49.3
+
+# ==== Data / utils ====
+pandas==2.3.3
+scikit-learn==1.7.2
+python-dotenv==1.2.1
+requests==2.32.5
+rich==14.2.0
+coloredlogs==15.0.1
